@@ -4,3 +4,4 @@
 <img src="./images/taobao_logo.png" width=50%>
 
 ## とりあえず、taobao.mdを見ましょう
+[taobao](/taobao.md)
